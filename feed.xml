@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dmp.bz</title>
+    <description>A little bit of this and a lot of that.. 
+</description>
+    <link>http://dmp.bz/</link>
+    <atom:link href="http://dmp.bz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 24 May 2015 20:46:50 +0800</pubDate>
+    <lastBuildDate>Sun, 24 May 2015 20:46:50 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>
